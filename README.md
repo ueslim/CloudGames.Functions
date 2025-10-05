@@ -1,3 +1,12 @@
+CloudGames.Functions - Payments Consumer
+
+Environment variables used by the Functions app:
+- ServiceBus__Connection
+- ServiceBus__Topic
+- ServiceBus__Subscription
+- Games__BaseUrl
+- OTLP__Endpoint
+
 # Fiap.CloudGames.Functions
 
 Azure Functions (isolated) for async processing.
